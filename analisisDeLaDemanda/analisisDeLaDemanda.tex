@@ -1,8 +1,8 @@
 \subsection{Consumidores directos (administradores o Dueños de estacionamiento)}
 
-De acuerdo a una investigación realizada por el Instituto de Geografía de la UNAM, en el DF hay 1, 783 estacionamientos públicos, con más de 300 mil cajones (autobild, 2014). La Figura \ref{fig:graficaEstacionamientosPorArea}  muestras las 6 delegaciones(Municipios) con mayor número de estacionamiento,  asi como, el porcentaje que le corresponde.
+De acuerdo a una investigación realizada por la UNAM. En el DF hay 1,783 estacionamientos públicos, con más de 300 mil cajones \cite{publimetro}. La Figura \ref{fig:graficaEstacionamientosPorArea} muestras las 6 delegaciones (más de 84\% del total) con mayor número de estacionamiento, asi como, el porcentaje que le corresponde.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	\includegraphics[scale=.3]{./analisisDeLaDemanda/source/estacionamientosPorArea}
 	\caption{Estacionamientos por área en el DF}
@@ -11,9 +11,9 @@ De acuerdo a una investigación realizada por el Instituto de Geografía de la UNA
 
 \newpage
 
-Otra opción para estacionar en vehículo es el parquímetro, datos obtenidos a través de ecoParq (ecoparq, 2014), hay 1,229 parquímetros instalados, atendiendo a 19,890 cajones en la vía publica distribuidos de la como se muestra en el Cuadro \ref{tab:Parquimetros}.\\
+Otra opción para estacionar en vehículo es el parquímetro, datos obtenidos a través de ecoParq \cite{ecoparq}, hay 1,229 parquímetros instalados, atendiendo a 19,890 cajones en la vía publica, distribuidos de la como se muestra en el Cuadro \ref{tab:Parquimetros}.
 
-\begin{table}
+\begin{table}[h]
 	\centering
 	\begin{tabular}{|l|c|c|}
 		\hline COLONIA & PARQUIMETRO & CAJONES \\ 
@@ -31,10 +31,8 @@ Otra opción para estacionar en vehículo es el parquímetro, datos obtenidos a tra
 	\caption{Parquimetros y cajones por Colonia.}
 \end{table}
 
-\newpage
 
-Tomando como ejemplo la delegación Cuauhtémoc sólo el 10.8\% de los automóviles utilizan los aparcamientos públicos, mientras que 55.4\% aloja su vehículo en estacionamientos privados, otro 28.5\% se estaciona en la vía pública y sólo 2.4\% de la población lo hace en garaje propio (autobild, 2014).
-
+Tomando como ejemplo la delegación Cuauhtémoc sólo el 12\% de los automóviles utilizan los aparcamientos públicos, mientras que 57\% aloja su vehículo en estacionamientos privados, otro 28\% se estaciona en la vía pública y sólo 3\% de la población lo hace en garaje propio \cite{autobild}.
 
 \begin{figure}[h]
 	\centering
@@ -45,18 +43,59 @@ Tomando como ejemplo la delegación Cuauhtémoc sólo el 10.8\% de los automóviles 
 
 
 \subsection{Consumidores indirectos (usuarios finales)}
-Según datos del INEGI la flota  vehicular  registrada  en  el México Distrito Federal se estima en 36.7 millones de vehículos. (INEGI, 2013). 
+Según datos del INEGI la flota  vehicular  registrada  en  el México Distrito Federal se estima en 36.7 millones de vehículos. \cite{INEGI}. En la Figura \ref{fig:vehiculosPorAno} podemos observar la cantidad de vehículos y su tipo, asi como, el crecimiento que han tenido año con año desde 2003. 
 
 \begin{figure}[h]
 	\centering
 	\includegraphics[scale=.4]{./analisisDeLaDemanda/source/VehiculosPorAno}
-	\caption{Problemas cotidianos por falta de disponibilidad en estacionamietos}
+	\caption{Número de vehículos por año según su clase. Cifra mostrada en cientos de miles}
 	\label{fig:vehiculosPorAno}
 \end{figure}
 
-El tipo de demanda que se detecta es insatisfecha, ya que la gran mayoría  de los estacionamientos (pequeños y medianos) opera solo con un dispositivo ?checador? que utilizan para contar el tiempo dentro del estacionamiento, y un registro  donde llevan el control de pensionados, y el total de las entradas diarias. 
-Nosotros no centraremos en los estacionamientos pequeños y medianos ya que ellos representan un gran segmento del mercado y resulta muy favorable para el ellos el uso de SAE (GANAR-GANAR).
+\newpage
+El tipo de demanda que se detecta es insatisfecha, ya que, la gran mayoría  de los estacionamientos (pequeños y medianos) opera solo con un dispositivo \textit{checador} que utilizan para contar el tiempo dentro del estacionamiento, y un registro  donde llevan el control de pensionados, y el total de las entradas. Figura \ref{fig:EstacionamientoChicoCompleto}.
+\\
+\begin{figure}
+	\centering
+  	\subfloat[Estacionamiento]{
+   		\label{fig:Estacionamiento}
+    	\includegraphics[width=0.3\textwidth]{./analisisDeLaDemanda/source/estacionamientoPequeno.pdf}
+    }
+  	\subfloat[Checador]{
+   		\label{fig:relojChecador}
+    	\includegraphics[width=0.15\textwidth]{./analisisDeLaDemanda/source/relojChecador.pdf}
+    }
+  	\subfloat[Conejo]{
+   		\label{fig:libreta}
+    	\includegraphics[width=0.15\textwidth]{./analisisDeLaDemanda/source/libreta.pdf}
+    }
+ 	\caption{Estacionamiento chico y principales componentes}
+ 	\label{fig:EstacionamientoChicoCompleto}
+\end{figure}
 
-Existen otro tipo de estacionamientos, estos los podemos encontrar en centros comerciales, plazas, súper mercados, cines, teatros, zonas, hospitales, etc. Estos estacionamientos los definimos con ?estacionamientos grandes?. Estos tienen la característica de tener mayores ingresos y por ende poseen una mejor infraestructura. Usualmente son administrador por un tercero y tiene sistema que automatiza las tareas operativas.  La desventaja principal de este tipo de estacionamientos es que el dueño del estacionamiento pierde el control del mismo y sus ingresos son   reducidos en gran medida, hasta de un 50\% de total, siempre y cuando el tercero haya recuperada la inversión inicial echa.  
+%SAE se enfoca en los estacionamientos pequeños y medianos ya que ellos representan un gran segmento del mercado y %resulta muy favorable para el ellos el uso de SAE (GANAR-GANAR).
+
+Existen otro tipo de estacionamientos, estos los podemos encontrar en centros comerciales, plazas, súper mercados, cines, teatros, zonas, hospitales, etc. Estos estacionamientos los definimos con \textit{estacionamientos grandes}. Estos tienen la característica de tener mayores ingresos y por ende poseen una mejor infraestructura. Figura \ref{fig:EstacionamientoGrandeCompleto}. Usualmente son administrador por un tercero y tiene sistema que automatiza las tareas operativas.  La desventaja principal de este tipo de estacionamientos es que el dueño del estacionamiento pierde el control del mismo y sus ingresos son   reducidos en gran medida, hasta de un 50\% de total, siempre y cuando el tercero haya recuperada la inversión inicial echa.  
 Este tipo de estacionamientos no es nuestro principal cliente, pues ya posee un grado de automatización mayor; sin embargo SAE API brinda un conjunto de métodos que pueden utilizar los sistemas externos para hacer uso de la plataforma que brinda SAE y con ellos aprovechar las ventajas que este brinda.
+
+
+\begin{figure}
+	\centering
+  	\subfloat[modulodeCobro]{
+   		\label{fig:EstacionamientoGrande}
+    	\includegraphics[width=0.23\textwidth]{./analisisDeLaDemanda/source/mouloDeCobro.pdf}
+    }
+  	\subfloat[pluma]{
+   		\label{fig:pluma}
+    	\includegraphics[width=0.5\textwidth]{./analisisDeLaDemanda/source/pluma.pdf}
+    }
+  	\subfloat[boletera]{
+   		\label{fig:boletera}
+    	\includegraphics[width=0.14\textwidth]{./analisisDeLaDemanda/source/boletera.pdf}
+    }
+ 	\caption{Infraestructura de estacionamientos grandes}
+ 	\label{fig:EstacionamientoGrandeCompleto}
+\end{figure}
+
+\newpage
 

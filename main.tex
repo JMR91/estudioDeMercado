@@ -8,23 +8,23 @@
 \usepackage[spanish]{babel}  %Cambia las etiquetas a español 
 \usepackage{multicol}
 \usepackage{wrapfig}
-\bibliography{referenciasBibliograficas}
+\usepackage{subfig}	%Varias imagenes
+% Bibliography
+\usepackage[style=alphabetic,sorting=nyt,sortcites=true,autopunct=true,babel=hyphen,hyperref=true,abbreviate=false,backref=true,backend=biber]{biblatex}
+\addbibresource{referenciasBibliograficas.bib} % BibTeX bibliography file
+\defbibheading{bibempty}{}
 
 
 \begin{document}
-
-%Caratula
-%Citas
-
-
-\chapter{Estudio de Mercado}
-	\section{Definición Del Problema}
-		\input{./definicionDelProblema/definicionDelProblema.tex}
-	\section{Definición Del Producto}	
-		\input{./definicionDelProducto/definicionDelProducto.tex}
-	\section{Análisis De La Demanda}
-		\input{./analisisDeLaDemanda/analisisDeLaDemanda.tex}
-	\section{Análisis De La Oferta}
-		\input{./analisisDeLaOferta/analisisDeLaOferta.tex}
-	%\bibliography{referenciasBibliograficas}
+	\chapter{Estudio de Mercado}
+		\section{Definición Del Problema}
+			\input{./definicionDelProblema/definicionDelProblema.tex}
+		\section{Definición Del Producto}	
+			\input{./definicionDelProducto/definicionDelProducto.tex}
+		\section{Análisis De La Demanda}
+			\input{./analisisDeLaDemanda/analisisDeLaDemanda.tex}
+		\section{Análisis De La Oferta}
+			\input{./analisisDeLaOferta/analisisDeLaOferta.tex}
+	
+	
 \end{document}
