@@ -1,0 +1,219 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {spanish}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Estudio de Mercado}{2}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Definici\'on Del Problema}{2}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Definici\'on Del Producto}{4}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}An\'alisis De La Demanda}{5}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Consumidores directos (administradores o Due\~nos de estacionamiento)}{5}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Consumidores indirectos (usuarios finales)}{6}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}An\'alisis De La Oferta}{8}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}idPark}{8}{subsection.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nombre de la Empresa}{8}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Marca}{8}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Logo}{8}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Producto}{8}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descripci\'on}{8}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Precio}{9}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pa\IeC {\'\i }ses donde se comercializa}{9}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Link}{9}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.2}AVPM}{9}{subsection.1.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nombre de la Empresa}{9}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Marca}{9}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Logo}{9}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Producto}{9}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descripci\'on}{10}{section*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Touch Screen Interface}{10}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } TIS Ticket Inventory System}{10}{section*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Fee Calculator/Rate Table}{10}{section*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Report Engine}{10}{section*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Lost Key Warning System}{10}{section*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Cashier\/Dispatcher Application}{10}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Time \& Attendance}{10}{section*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Payroll Interface}{10}{section*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Credit Card Interface}{10}{section*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{PCI PA-DSS Compliance}{11}{section*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } VATS}{11}{section*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } VATS+}{11}{section*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Enterprise}{11}{section*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } VDES}{11}{section*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } ACCESS}{11}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Claim Tracking}{11}{section*.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Telephone Request Module}{11}{section*.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Scheduler}{11}{section*.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Garage Map Feature}{11}{section*.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Valet Request Customer Display}{11}{section*.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } License Plate Recognition System}{11}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Frequent Parker Program}{11}{section*.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Garage Access Module}{11}{section*.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Vehicle Request Web Page/System Upgrade}{12}{section*.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Hotel Management System Interface}{12}{section*.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Room Key Interface}{12}{section*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Front Desk Manager}{12}{section*.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Players Card Integration}{12}{section*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Flight Database Integration}{12}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Reservation Page Valet Boarding Pass}{12}{section*.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{AVPM\IeC {\textregistered } Staging Board}{12}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Precio}{12}{section*.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pa\IeC {\'\i }ses donde se comercializa}{12}{section*.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Otros Datos}{12}{section*.61}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Link}{12}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.3}EQUINSA PARKING}{12}{subsection.1.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nombre de la Empresa}{12}{section*.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Marca}{12}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Logo}{13}{section*.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Producto}{13}{section*.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descripci\'on}{13}{section*.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Software de Gesti\'on}{13}{section*.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Software de Matr\IeC {\'\i }culas}{14}{section*.70}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{ 1.- Subsistema RAMA}{14}{section*.71}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{2.- Base de Datos}{14}{section*.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Software de Guiado}{14}{section*.73}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Valet Parking}{15}{section*.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Precio}{16}{section*.75}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pa\IeC {\'\i }ses donde se comercializa}{16}{section*.76}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Link}{16}{section*.77}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.4}Smartpark Management Software}{16}{subsection.1.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nombre de la Empresa}{16}{section*.78}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Marca}{16}{section*.79}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Logo}{17}{section*.80}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Producto}{17}{section*.82}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descripci\'on}{17}{section*.83}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Monitoring and Control}{17}{section*.84}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Revenue Management}{17}{section*.85}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Validation Solutions}{17}{section*.86}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Access Control}{17}{section*.87}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Standard Features}{17}{section*.88}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Reporting}{18}{section*.89}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Precio}{18}{section*.90}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pa\IeC {\'\i }ses donde se comercializa}{18}{section*.91}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Link}{18}{section*.92}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.5}3M Parking Software}{18}{subsection.1.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nombre de la Empresa}{18}{section*.93}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Marca}{18}{section*.94}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Logo}{18}{section*.95}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Producto}{18}{section*.97}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descripci\'on}{18}{section*.98}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Precio}{19}{section*.99}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pa\IeC {\'\i }ses donde se comercializa}{19}{section*.100}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Link}{19}{section*.101}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.6}Software Playas de Estacionamiento}{19}{subsection.1.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nombre de la Empresa}{19}{section*.102}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Marca}{19}{section*.103}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Logo}{19}{section*.104}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Producto}{19}{section*.106}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descripci\'on}{19}{section*.107}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Caracter\IeC {\'\i }sticas Funcionales }{19}{section*.108}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Caracter\IeC {\'\i }sticas Operativas}{20}{section*.109}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Requerimientos}{20}{section*.110}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Precio}{20}{section*.111}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pa\IeC {\'\i }ses donde se comercializa}{20}{section*.112}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Link}{20}{section*.113}

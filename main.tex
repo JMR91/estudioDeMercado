@@ -9,20 +9,28 @@
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{subfig}	%Varias imagenes
+\usepackage[hidelinks]{hyperref} %URL
 % Bibliography
 \usepackage[style=alphabetic,sorting=nyt,sortcites=true,autopunct=true,babel=hyphen,hyperref=true,abbreviate=false,backref=true,backend=biber]{biblatex}
 \addbibresource{referenciasBibliograficas.bib} % BibTeX bibliography file
 \defbibheading{bibempty}{}
 
 
+
 \begin{document}
+	
+	\tableofcontents
+	
 	\chapter{Estudio de Mercado}
 		\section{Definición Del Problema}
 			\input{./definicionDelProblema/definicionDelProblema.tex}
+			\newpage
 		\section{Definición Del Producto}	
 			\input{./definicionDelProducto/definicionDelProducto.tex}
+			\newpage
 		\section{Análisis De La Demanda}
 			\input{./analisisDeLaDemanda/analisisDeLaDemanda.tex}
+			\newpage
 		\section{Análisis De La Oferta}
 			\input{./analisisDeLaOferta/analisisDeLaOferta.tex}
 	
