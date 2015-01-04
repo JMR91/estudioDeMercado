@@ -11,14 +11,21 @@
 \usepackage{subfig}	%Varias imagenes
 \usepackage[hidelinks]{hyperref} %URL
 % Bibliography
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 \usepackage[style=alphabetic,sorting=nyt,sortcites=true,autopunct=true,babel=hyphen,hyperref=true,abbreviate=false,backref=true,backend=biber]{biblatex}
 \addbibresource{referenciasBibliograficas.bib} % BibTeX bibliography file
 \defbibheading{bibempty}{}
+\usepackage[table]{xcolor} %Filas 
+\input{./color}
+
+
+
+
 
 
 
 \begin{document}
-	
+	\input{./titlepage}
 	\tableofcontents
 	\chapter{Estudio de Mercado}
 		\section{Definición Del Problema}

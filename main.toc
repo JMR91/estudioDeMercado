@@ -36,39 +36,39 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Link}{8}{section*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{AVPM}{9}{section*.21}
+\contentsline {subsubsection}{AVPM}{8}{section*.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Nombre de la Empresa}{9}{section*.22}
+\contentsline {paragraph}{Nombre de la Empresa}{8}{section*.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Marca}{9}{section*.23}
+\contentsline {paragraph}{Marca}{8}{section*.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{9}{section*.24}
+\contentsline {paragraph}{Logo}{8}{section*.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Producto}{9}{section*.26}
+\contentsline {paragraph}{Producto}{8}{section*.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{9}{section*.27}
+\contentsline {paragraph}{Descripci\'on}{8}{section*.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Touch Screen Interface}{9}{section*.28}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Touch Screen Interface}{8}{section*.28}
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{AVPM\IeC {\textregistered } TIS Ticket Inventory System}{9}{section*.31}
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{AVPM\IeC {\textregistered } Fee Calculator/Rate Table}{9}{section*.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Report Engine}{10}{section*.33}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Report Engine}{9}{section*.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Lost Key Warning System}{10}{section*.34}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Lost Key Warning System}{9}{section*.34}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Cashier\/Dispatcher Application}{10}{section*.35}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Cashier\/Dispatcher Application}{9}{section*.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Time \& Attendance}{10}{section*.36}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Time \& Attendance}{9}{section*.36}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Payroll Interface}{10}{section*.37}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Payroll Interface}{9}{section*.37}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Credit Card Interface}{10}{section*.38}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Credit Card Interface}{9}{section*.38}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{PCI PA-DSS Compliance}{10}{section*.39}
+\contentsline {subparagraph}{PCI PA-DSS Compliance}{9}{section*.39}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } VATS}{10}{section*.40}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } VATS}{9}{section*.40}
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{AVPM\IeC {\textregistered } VATS+}{10}{section*.41}
 \defcounter {refsection}{0}\relax 
@@ -78,25 +78,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{AVPM\IeC {\textregistered } ACCESS}{10}{section*.44}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Claim Tracking}{11}{section*.45}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Claim Tracking}{10}{section*.45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Telephone Request Module}{11}{section*.46}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Telephone Request Module}{10}{section*.46}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Scheduler}{11}{section*.47}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Scheduler}{10}{section*.47}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Garage Map Feature}{11}{section*.48}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Garage Map Feature}{10}{section*.48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Valet Request Customer Display}{11}{section*.49}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Valet Request Customer Display}{10}{section*.49}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } License Plate Recognition System}{11}{section*.50}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } License Plate Recognition System}{10}{section*.50}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Frequent Parker Program}{11}{section*.51}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Frequent Parker Program}{10}{section*.51}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Garage Access Module}{11}{section*.52}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Garage Access Module}{10}{section*.52}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Vehicle Request Web Page/System Upgrade}{11}{section*.53}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Vehicle Request Web Page/System Upgrade}{10}{section*.53}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Hotel Management System Interface}{11}{section*.54}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Hotel Management System Interface}{10}{section*.54}
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{AVPM\IeC {\textregistered } Room Key Interface}{11}{section*.55}
 \defcounter {refsection}{0}\relax 
@@ -106,202 +106,220 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{AVPM\IeC {\textregistered } Flight Database Integration}{11}{section*.58}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Reservation Page Valet Boarding Pass}{12}{section*.59}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Reservation Page Valet Boarding Pass}{11}{section*.59}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{AVPM\IeC {\textregistered } Staging Board}{12}{section*.60}
+\contentsline {subparagraph}{AVPM\IeC {\textregistered } Staging Board}{11}{section*.60}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{12}{section*.61}
+\contentsline {paragraph}{Precio}{11}{section*.61}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{12}{section*.62}
+\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{11}{section*.62}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Otros Datos}{12}{section*.63}
+\contentsline {paragraph}{Otros Datos}{11}{section*.63}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{12}{section*.64}
+\contentsline {paragraph}{Link}{11}{section*.64}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{EQUINSA PARKING}{13}{section*.65}
+\contentsline {subsubsection}{EQUINSA PARKING}{11}{section*.65}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Nombre de la Empresa}{13}{section*.66}
+\contentsline {paragraph}{Nombre de la Empresa}{11}{section*.66}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Marca}{13}{section*.67}
+\contentsline {paragraph}{Marca}{11}{section*.67}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{13}{section*.68}
+\contentsline {paragraph}{Logo}{11}{section*.68}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Producto}{13}{section*.70}
+\contentsline {paragraph}{Producto}{11}{section*.70}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{13}{section*.71}
+\contentsline {paragraph}{Descripci\'on}{11}{section*.71}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Software de Gesti\'on}{13}{section*.72}
+\contentsline {subparagraph}{Software de Gesti\'on}{12}{section*.72}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Software de Matr\IeC {\'\i }culas}{14}{section*.73}
+\contentsline {subparagraph}{Software de Matr\IeC {\'\i }culas}{12}{section*.73}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{ 1.- Subsistema RAMA}{14}{section*.74}
+\contentsline {subparagraph}{ 1.- Subsistema RAMA}{13}{section*.74}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{2.- Base de Datos}{14}{section*.75}
+\contentsline {subparagraph}{2.- Base de Datos}{13}{section*.75}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Software de Guiado}{15}{section*.76}
+\contentsline {subparagraph}{Software de Guiado}{13}{section*.76}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Valet Parking}{15}{section*.77}
+\contentsline {subparagraph}{Valet Parking}{14}{section*.77}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{16}{section*.78}
+\contentsline {paragraph}{Precio}{15}{section*.78}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{16}{section*.79}
+\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{15}{section*.79}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{16}{section*.80}
+\contentsline {paragraph}{Link}{15}{section*.80}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Smartpark Management Software}{17}{section*.81}
+\contentsline {subsubsection}{Smartpark Management Software}{15}{section*.81}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Nombre de la Empresa}{17}{section*.82}
+\contentsline {paragraph}{Nombre de la Empresa}{15}{section*.82}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Marca}{17}{section*.83}
+\contentsline {paragraph}{Marca}{15}{section*.83}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{17}{section*.84}
+\contentsline {paragraph}{Logo}{15}{section*.84}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Producto}{17}{section*.86}
+\contentsline {paragraph}{Producto}{15}{section*.86}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{17}{section*.87}
+\contentsline {paragraph}{Descripci\'on}{15}{section*.87}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Monitoring and Control}{17}{section*.88}
+\contentsline {subparagraph}{Monitoring and Control}{15}{section*.88}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Revenue Management}{17}{section*.89}
+\contentsline {subparagraph}{Revenue Management}{16}{section*.89}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Validation Solutions}{17}{section*.90}
+\contentsline {subparagraph}{Validation Solutions}{16}{section*.90}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Access Control}{17}{section*.91}
+\contentsline {subparagraph}{Access Control}{16}{section*.91}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Standard Features}{17}{section*.92}
+\contentsline {subparagraph}{Standard Features}{16}{section*.92}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Reporting}{18}{section*.93}
+\contentsline {subparagraph}{Reporting}{16}{section*.93}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{18}{section*.94}
+\contentsline {paragraph}{Precio}{16}{section*.94}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{18}{section*.95}
+\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{16}{section*.95}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{18}{section*.96}
+\contentsline {paragraph}{Link}{16}{section*.96}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{3M Parking Software}{19}{section*.97}
+\contentsline {subsubsection}{3M Parking Software}{16}{section*.97}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Nombre de la Empresa}{19}{section*.98}
+\contentsline {paragraph}{Nombre de la Empresa}{16}{section*.98}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Marca}{19}{section*.99}
+\contentsline {paragraph}{Marca}{16}{section*.99}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{19}{section*.100}
+\contentsline {paragraph}{Logo}{16}{section*.100}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Producto}{19}{section*.102}
+\contentsline {paragraph}{Producto}{17}{section*.102}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{19}{section*.103}
+\contentsline {paragraph}{Descripci\'on}{17}{section*.103}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{19}{section*.104}
+\contentsline {paragraph}{Precio}{17}{section*.104}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{19}{section*.105}
+\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{17}{section*.105}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{19}{section*.106}
+\contentsline {paragraph}{Link}{17}{section*.106}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Software Playas de Estacionamiento}{20}{section*.107}
+\contentsline {subsubsection}{Software Playas de Estacionamiento}{17}{section*.107}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Nombre de la Empresa}{20}{section*.108}
+\contentsline {paragraph}{Nombre de la Empresa}{17}{section*.108}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Marca}{20}{section*.109}
+\contentsline {paragraph}{Marca}{17}{section*.109}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{20}{section*.110}
+\contentsline {paragraph}{Logo}{17}{section*.110}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Producto}{20}{section*.112}
+\contentsline {paragraph}{Producto}{17}{section*.112}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{20}{section*.113}
+\contentsline {paragraph}{Descripci\'on}{17}{section*.113}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Caracter\IeC {\'\i }sticas Funcionales }{20}{section*.114}
+\contentsline {paragraph}{Caracter\IeC {\'\i }sticas Funcionales }{18}{section*.114}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Caracter\IeC {\'\i }sticas Operativas}{21}{section*.115}
+\contentsline {paragraph}{Caracter\IeC {\'\i }sticas Operativas}{18}{section*.115}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Requerimientos}{21}{section*.116}
+\contentsline {paragraph}{Requerimientos}{18}{section*.116}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{21}{section*.117}
+\contentsline {paragraph}{Precio}{18}{section*.117}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{21}{section*.118}
+\contentsline {paragraph}{Pa\IeC {\'\i }ses donde se comercializa}{18}{section*.118}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{21}{section*.119}
+\contentsline {paragraph}{Link}{18}{section*.119}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.2}Soluciones para Usuarios Finales}{22}{subsection.1.4.2}
+\contentsline {subsubsection}{Resumen}{19}{section*.120}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{eTarifado}{22}{section*.120}
+\contentsline {subsection}{\numberline {1.4.2}Soluciones para Usuarios Finales}{19}{subsection.1.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{22}{section*.121}
+\contentsline {subsubsection}{eTarifado}{19}{section*.121}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{22}{section*.123}
+\contentsline {paragraph}{Logo}{19}{section*.122}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{22}{section*.124}
+\contentsline {paragraph}{Descripci\'on}{20}{section*.124}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{22}{section*.125}
+\contentsline {paragraph}{Precio}{20}{section*.125}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{22}{section*.126}
+\contentsline {paragraph}{Plataformas}{20}{section*.126}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Aparca Coches}{22}{section*.127}
+\contentsline {paragraph}{Link}{20}{section*.127}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{22}{section*.128}
+\contentsline {subsubsection}{Aparca Coches}{20}{section*.128}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{23}{section*.130}
+\contentsline {paragraph}{Logo}{20}{section*.129}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{23}{section*.131}
+\contentsline {paragraph}{Descripci\'on}{20}{section*.131}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{23}{section*.132}
+\contentsline {paragraph}{Precio}{20}{section*.132}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{23}{section*.133}
+\contentsline {paragraph}{Plataformas}{20}{section*.133}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{WIMC (\IeC {\textquestiondown }D\'onde est\'a mi coche?)}{23}{section*.134}
+\contentsline {paragraph}{Link}{21}{section*.134}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{23}{section*.135}
+\contentsline {subsubsection}{WIMC (\IeC {\textquestiondown }D\'onde est\'a mi coche?)}{21}{section*.135}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{23}{section*.137}
+\contentsline {paragraph}{Logo}{21}{section*.136}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{24}{section*.138}
+\contentsline {paragraph}{Descripci\'on}{21}{section*.138}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{24}{section*.139}
+\contentsline {paragraph}{Precio}{21}{section*.139}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{24}{section*.140}
+\contentsline {paragraph}{Plataformas}{21}{section*.140}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Aparkando}{24}{section*.141}
+\contentsline {paragraph}{Link}{21}{section*.141}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{24}{section*.142}
+\contentsline {subsubsection}{Aparkando}{21}{section*.142}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{24}{section*.144}
+\contentsline {paragraph}{Logo}{21}{section*.143}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{24}{section*.145}
+\contentsline {paragraph}{Descripci\'on}{22}{section*.145}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{24}{section*.146}
+\contentsline {paragraph}{Precio}{22}{section*.146}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{24}{section*.147}
+\contentsline {paragraph}{Plataformas}{22}{section*.147}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Localizador de carro}{25}{section*.148}
+\contentsline {paragraph}{Link}{22}{section*.148}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{25}{section*.149}
+\contentsline {subsubsection}{Localizador de carro}{22}{section*.149}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{25}{section*.151}
+\contentsline {paragraph}{Logo}{22}{section*.150}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{25}{section*.152}
+\contentsline {paragraph}{Descripci\'on}{22}{section*.152}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{25}{section*.153}
+\contentsline {paragraph}{Precio}{23}{section*.153}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{25}{section*.154}
+\contentsline {paragraph}{Plataformas}{23}{section*.154}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Parker}{25}{section*.155}
+\contentsline {paragraph}{Link}{23}{section*.155}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{25}{section*.156}
+\contentsline {subsubsection}{Parker}{23}{section*.156}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{26}{section*.158}
+\contentsline {paragraph}{Logo}{23}{section*.157}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{26}{section*.159}
+\contentsline {paragraph}{Descripci\'on}{23}{section*.159}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{26}{section*.160}
+\contentsline {paragraph}{Precio}{23}{section*.160}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{26}{section*.161}
+\contentsline {paragraph}{Plataformas}{24}{section*.161}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{ParkMe Parking}{26}{section*.162}
+\contentsline {paragraph}{Link}{24}{section*.162}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Logo}{26}{section*.163}
+\contentsline {subsubsection}{ParkMe Parking}{24}{section*.163}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{26}{section*.165}
+\contentsline {paragraph}{Logo}{24}{section*.164}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{28}{section*.166}
+\contentsline {paragraph}{Descripci\'on}{24}{section*.166}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{28}{section*.167}
+\contentsline {paragraph}{Precio}{25}{section*.167}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Link}{28}{section*.168}
+\contentsline {paragraph}{Plataformas}{25}{section*.168}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Link}{25}{section*.169}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ParkMe Parking}{26}{section*.170}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Logo}{26}{section*.171}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Producto}{26}{section*.173}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Descripci\'on}{26}{section*.174}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Precio}{26}{section*.175}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Plataformas}{26}{section*.176}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Link}{26}{section*.177}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Resumen}{26}{section*.178}
