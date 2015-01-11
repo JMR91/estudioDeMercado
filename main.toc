@@ -336,6 +336,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Capacidad}{29}{section*.180}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}RFA2}{29}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{aasfsdfgsdfgsdfgsdfg}{29}{section*.181}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Requerimientos No Funcionales}{29}{section.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Reglas de negocio}{29}{section.3.3}
