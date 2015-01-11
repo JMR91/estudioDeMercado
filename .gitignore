@@ -1,9 +1,9 @@
-*.aux
-*.log
-*.gz
-*.bbl
-*.blg
+.aux
+.log
+.gz
+.bbl
+.blg
 main.pdf
-*.out
-*.toc
-*.bcf
+.out
+.toc
+.bcf
