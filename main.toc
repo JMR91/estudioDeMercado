@@ -228,11 +228,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Logo}{19}{section*.122}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Descripci\'on}{20}{section*.124}
+\contentsline {paragraph}{Descripci\'on}{19}{section*.124}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Precio}{20}{section*.125}
+\contentsline {paragraph}{Precio}{19}{section*.125}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{20}{section*.126}
+\contentsline {paragraph}{Plataformas}{19}{section*.126}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Link}{20}{section*.127}
 \defcounter {refsection}{0}\relax 
@@ -244,7 +244,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Precio}{20}{section*.132}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Plataformas}{20}{section*.133}
+\contentsline {paragraph}{Plataformas}{21}{section*.133}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Link}{21}{section*.134}
 \defcounter {refsection}{0}\relax 
@@ -323,3 +323,21 @@
 \contentsline {paragraph}{Link}{26}{section*.177}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Resumen}{26}{section*.178}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Estudio de Viabilidad}{27}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Definici\'on Del Problema}{27}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Especificaciones y requerimientos de software}{29}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Requerimientos Funcionales}{29}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}RFA1}{29}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Capacidad}{29}{section*.180}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Requerimientos No Funcionales}{29}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Reglas de negocio}{29}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Stakeholders}{29}{section.3.4}
