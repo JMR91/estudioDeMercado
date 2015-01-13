@@ -1,6 +1,4 @@
-Un Sistema Administrador de Estacionamiento (SAE) capaz de ajustarse a las necesidades de las diferentes modalidades de estacionamientos  públicos  del  Distrito  Federal  como son estacionamiento, parquímetros, valet-parking y  pensiones.  Este  permitirá  gestionar  y  realizar  las  tareas operativas y administrativas. 
-
-La información de los estacionamientos en operación podrá ser visualizada por los usuarios finales a través de una app móvil de manera fácil. Esta mostrará en un mapa los estacionamientos cercamos, número de cajones disponibles, horarios, modos de cobro, tarifas, y una calificación.	
+Una plataforma en la Nube para la administración y localización de estacionamiento (SAE) capaz de ajustarse a las necesidades de las diferentes modalidades de estacionamientos  públicos y privados del Distrito  Federal como son estacionamiento, parquímetros, valet-parking y  pensiones.  Permitirá  gestionar  y  realizar  las  tareas operativas y administrativas que se realizan de manera general en un estacionamiento. Figura \ref{fig:ArquitecturaGeneralSAE}
 
 \begin{figure}[h]
 	\centering
@@ -9,13 +7,47 @@ La información de los estacionamientos en operación podrá ser visualizada por lo
 	\label{fig:ArquitecturaGeneralSAE}
 \end{figure}		 
 
+La información de los estacionamientos en operación podrá ser visualizada por los usuarios finales a través de una app móvil de manera fácil. Esta mostrará en un mapa los estacionamientos cercamos, número de cajones disponibles, horarios, modos de cobro, tarifas, y una calificación.Figura \ref{fig:usuarioAppLocalizacion}
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[scale=0.4]{./definicionDelProducto/source/usuarioApp}
+	\caption{App de localización}
+	\label{fig:usuarioAppLocalizacion}
+\end{figure}
+
+\newpage
 La Figura \ref{fig:EscenarioSAE} ejemplifica el escenario principal de uso del SAE.
 
 \begin{figure}[ht]
 	\centering
-	\includegraphics[scale=0.9]{./definicionDelProducto/source/storyboard.pdf}
+	\includegraphics[scale=0.75]{./definicionDelProducto/source/storyboard.pdf}
 	\caption{Escenario de uso SAE}
 	\label{fig:EscenarioSAE}
 \end{figure}
 
-\newpage
+ Las principales caracteristicas del la plataforma son:
+\begin{itemize}
+	\item Configuración física
+		\begin{itemize}
+			\item Número de niveles
+			\item Número de cajones
+			\item Cajones para personas con capacidades diferectes.
+			\item Ubicacón del estacionamiento 
+			\item Horario de operación
+			\item Modalidad(Pensión, valet, normal)
+			\item Publico o Privado
+		\end{itemize}
+	\item Control de entradas y salidas
+	\item Control de ususarios
+	\item Generación de reportes
+	\item Consultas
+	\item Configuración de tarifas
+	\item Agregar servicios adicionales (lavado, aspirado, pulido, Etc.)
+	\item API de integración para otros sistemas
+	\item App de localizaión de estacionamientos
+\end{itemize}
+
+	
+
+

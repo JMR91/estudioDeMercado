@@ -1,53 +1,70 @@
-\subsection{RNF}
-	\paragraph{Alta de estacionamiento}
-		Los datos para dar de alta un estacionamiento son:
-		\begin{itemize}
-			\item Nombre del estacionamiento.
-			\item Ubicación(texto y coordenadas geográficas)
-			\item Logo representativo (Opcional)
-			\item Horario de servicio  
-			\item Número de niveles y cajones por nivel
-			\item Cajones para personas con capacidades diferentes
+\subsubsection{Alta de estacionamiento}
+	Los datos para dar de alta un estacionamiento son:
+	\begin{itemize}
+		\item Nombre del estacionamiento.
+		\item Ubicación(texto y coordenadas geográficas)
+		\item Logo representativo (Opcional)
+		\item Horario de servicio  
+		\item Niveles y cajones
+		\item Cajones para personas con capacidades diferentes
+	\end{itemize}
+
+\subsubsection{Reservación}
+	Para que el usuario final pueda reservar un cajón es necesario que este dado de alta.   
+
+\subsubsection{Servicios adicionales}
+	Se podrán gestiosnar servicios adicionales(lavado, aspirado, pulido, Etc.). Estos podrán tener un cargo extra(si así lo desea el administrador).
+
+\subsubsection{Número de accesos}
+	Los estacionamientos podrán tener de uno a muchos accesos. Estos accesos es donde se registran entradas y salidas.
+
+\subsubsection{Alta vehículo}
+	Para registrar un vehículo se solocitaran los siguientes datos:
+	\begin{itemize}
+			\item Placa
+			\item Marca
+			\item Modelo				
+			\item Color
+			\item Detalles(opcional)				
+			\item Fotos(opcional)
 		\end{itemize}
 
-\subsection{RNF}
-	\paragraph{Reservación}
-		Para que el usuario final pueda reservar un cajón, tendra que ingresar el número de placa del vehículo.   
-\subsection{RNF}
-	\paragraph{Servicios adicionales}
-\subsection{RNF}
-		Se podran agregar servicios adicionales.
-	\paragraph{SaaS}
-		El sistema trabajará bajo una plataforma Cloud, y será accedido como un servicio API.
-
-\subsection{RNF}
-	\paragraph{Configuración de estacionamiento}
-		Un estacionameito podrá operar con las siguientes configuraciones.
-		\begin{itemize}
-			\item Estacionamiento 
-			\item Pensión
-			\item Valet					
-		\end{itemize}
-
-\subsection{RNF}
-	\paragraph{Número de accesos}
-		Los estacionamientos tpodrán tener de uno a muchos accesos. Estos acceos es donde se registrarn entradas y salidas.
-
-\subsection{RNF}
-	\paragraph{Horario de pensión}
-		Al registrar un pensionado se deberá indicar.
-		\begin{itemize}
-			\item Placas del vehículo 
-			\item Horario de uso
-			\item Vegencia de uso			
-		\end{itemize}
+\subsubsection{Alta usuario App}
+	Los usuarios se podrán registrar desde la app móvil. Los datos solicitados son:
+	\begin{itemize}
+		\item Nombre completo
+		\item Teléfono
+		\item Móvil
+		\item e-mail
+		\item Dirección 
+	\end{itemize}	
+	
+\subsubsection{Alta Pensionado}
+	Para dar de alta un pensionada se deberá indicar.
+	\begin{itemize}
+		\item Nombre completo
+		\item Teléfono
+		\item Móvil
+		\item e-mail
+		\item Dirección
+	\end{itemize}
+	Tambien se deberá vincular con un vehiculo ículo registrado. Otra opcion será vincular con un usuario registrado.
+	
+\subsubsection{Registro valet}
+	Al recibir un vehículo el operador podrá indicar a la placa y el como se resive el vehículo.
+	
+\subsubsection{Horario de pensión}
+	Para dar de alta un pensionado, el usuario final debera estar dado de alta en el sistema como pensionado.
+	\begin{itemize}
+		\item Placas del vehículo 
+		\item Horario de uso
+		\item Vegencia de uso			
+	\end{itemize}
 		
-\subsection{RNF}
-	\paragraph{Tiempo de vida de la información}
-		La información será alamcenada en el sistema, pero no seáa eliminada.
-\subsection{RFF}
-	\paragraph{Historial}
+\subsubsection{Tiempo de vida de la información}
+	La información será alamcenada en el sistema, pero no seá eliminada.
+
+\subsubsection{Historial}
 	El cajero solo podra visualizar el hisotrial de accesos y su respectiva informacion en turno.
  
-		
 		

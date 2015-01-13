@@ -1,50 +1,68 @@
-\subsection{RF1}
-\paragraph{Capacidad}
-El sistema permitirá configurar el número de niveles y cajones por nivel que estarán en operación, así como los cajones que estarán reservados para personas con capacidades diferentes.
-\subsection{RF}
-	\paragraph{Forma de estacionamiento}
+\subsection{Administrador}
+
+	\subsubsection{Capacidad}
+		El sistema permitirá configurar el número de niveles y cajones por nivel que estarán en operación, así como los cajones que estarán reservados para personas con capacidades diferentes.
+
+	\subsubsection{Forma de estacionamiento}
 		El administrador tendra la opcion de cargar una plantilla(croquis) del estacionamiento para representar la distribucion del estacionamiento.
-\subsection{RF2}
-\paragraph{Consultas}
-Realizará consultas de entradas-salidas e ingresos por:
-\begin{itemize}
-	\item Día
-	\item Usuario
-	\item Fecha
-\end{itemize}
-\subsection{RF3}
-\paragraph{Entradas-Salidas}
-Llevará el control óptimo de entradas y salidas de vehículos.
-\subsection{RF4}
-\paragraph{Modos de cobro}
-Manejara los siguientes modos de cobros:
-\begin{itemize}
-	\item Por hora
-	\item Por minuto
-	\item Por Estancia
-	\item Primeros n minutos, con incremento cada n minutos
-	\item Boleto perdido
-	\item Boleto no sellado
-	\item Sin cobro
-\end{itemize}
-\subsection{RF}
-	\paragraph{Tarifas especiales}
-		El sistema permitira agregar precios especiales como promociones para clientes.
-\subsection{RF5}
-\paragraph{Historial}
-Llevará un historial donde se registrarán los movimientos realizados en el estacionamiento, estos detallaran los cajones, hora de entrada, hora de salida y la cantidad cobrada.
-\subsection{RF6}
-\paragraph{Reservaciones}
-El usuario final podrá hacer una reservación de un cajón de estacionamiento previamente seleccionado desde la aplicación móvil.
-\subsection{RF7}
-\paragraph{Historial de usuario}
-El usuario final podrá llevar un control sobre los estacionamientos visitados, así como aquellos seleccionados por este como favoritos.
-\subsection{RF8}
-\paragraph{Busqueda de estacionamientos}
-El usuario final podrá seleccionar un radio máximo de metros a la redonda en donde serán visualizados los estacionamientos cercanos.
-\subsection{RFU}
-	\paragraph{Visualizacion de smartphone}
-		El ususario final podrá visualizar en un dispositivo movil(smarphone), los estacionamientos cercanos a su ubicacion, mostrando información del estacionamiento al seleccionarlo. 
+
+	\subsubsection{Consultas}
+		Realizará consultas de entradas-salidas e ingresos por:
+		\begin{itemize}
+			\item Día
+			\item Usuario
+			\item Fecha
+		\end{itemize}
+
+	\subsubsection{Entradas\/Salidas}
+		Llevará el control óptimo de entradas y salidas de vehículos.
+
+	\subsubsection{Modos de cobro}
+		Manejara los siguientes modos de cobros:
+		\begin{itemize}
+			\item Por hora
+			\item Por minuto
+			\item Por Estancia
+			\item Primeros n minutos, con incremento cada n minutos
+			\item Boleto perdido
+			\item Boleto no sellado
+			\item Sin cobro
+		\end{itemize}
+
+	\subsubsection{Tarifas especiales}
+		El sistema permitirá agregar precios especiales como promociones para clientes.
+
+	\subsubsection{Historial}
+		Llevará un historial donde se registrarán los movimientos realizados en el estacionamiento, estos detallaran los cajones, hora de entrada, hora de salida y la cantidad cobrada.
+	
+
+	\subsubsection{Habilitar reservación}
+		Podrá habilitar o desbilitar la opción de \textit{Reservacion de Cajón} para su estacionameinto. En caso de hanilitarlo deberá indicar la tolerancia para que el usuario acceda al estacionamiento, en caso contrario perdera su reservación.
+
+	\subsubsection{Modos de estacionamiento}
+		\begin{itemize}
+			\item Estacionamiento normal
+			\item Valet Parking
+			\item Pension
+		\end{itemize}
+
+	\subsubsection{Control de usuarios}
+		Ppodrá gestionar las cuenta de los operadores.
+	
+	
+\subsection{Usuario Final}
+
+	\subsubsection{Reservaciones}
+		Podrá hacer una reservación de un cajón de estacionamiento previamente seleccionado desde la aplicación móvil.
+
+	\subsubsection{Historial de usuario}
+		Podrá llevar un control sobre los estacionamientos visitados, así como aquellos seleccionados por este como favoritos.
+	
+	\subsubsection{Busqueda de estacionamientos}
+		Podrá seleccionar un radio máximo de metros a la redonda en donde serán visualizados los estacionamientos.
+	
+	\subsubsection{Visualizacion de smartphone}
+		Podraá visualizar en un dispositivo movil(smarphone) los estacionamientos cercanos a su ubicacion dados de alta en el sistema, mostrando información del estacionamiento al seleccionarlo. 
 		\begin{itemize}
 			\item Horario de operacón
 			\item Capacidad y cajones disponibles.
@@ -52,19 +70,3 @@ El usuario final podrá seleccionar un radio máximo de metros a la redonda en don
 			\item Servicios adicionales
 			\item Tarifas especiales
 		\end{itemize}
-	
-\subsection{RFU}
-	\paragraph{Habilitar reservación}
-		El administrador podrá habilitar o desbilitar la opción de \textit{Reservacion de Cajón} para su estacionameinto. Este deberá indicar la tolerancia para que el usuario acceda al estacionamiento, en caso contrario perdera su reservación.
-\subsection{RFA}
-	\paragraph{Modos de estacionamiento}
-		\begin{itemize}
-			\item Estacionamiento normal
-			\item Valet Parking
-			\item Pension
-		\end{itemize}
-
-\subsection{RF}
-	\paragraph{Alta operadores}
-		El arministrador podrá gestionar las cuenta de los operadores.
-		
