@@ -1,11 +1,28 @@
 \subsection{Administrador}
 
-	\subsubsection{Capacidad}
-		El sistema permitirá configurar el número de niveles y cajones por nivel que estarán en operación, así como los cajones que estarán reservados para personas con capacidades diferentes.
-
+	\hrulefill
+	\subsubsection{Visivilidad}
+		Los administradores podrán elegir si el estacionamiento es visible para todos los usuarios o solo para usuarios finales que autorice.
+		
+	\hrulefill	
+	\subsubsection{Tipos de estacionamiento}
+			\begin{itemize}
+				\item \textbf{\textit{Estacionamiento c/s Pensión}} Serán estacionamientos donde los usuarios finales busquen un cajón disponible donde aparcar su vehículo. Al registar un nuevo estacionamiento de este tipo se podrá agrupar los cajones por \textbf{Nivel}(representan los pisos de los estacionamientos que cuenten con más de un nivel) y \textbf{Grupo} (agrupación adicional que sive para ubicar en que bloque del estacaionamiento esta el cajón). A cada cajón se le podrá asignar un o varios pensionados, e indicar si estara reservado para discapacitados.
+				
+				\item \textit{Valet Parking} Es un servicio de aparkamiento que se le da a los usuarios. En este modelo los usuarios dejan su vehículo en resepción y los encargados se ocupan de llevar el vehículo hasta el estacionamiento. Para este tipo de estacionamientos el administrador podrá dar de alta uno o varios estacionamientos donde podran estacionar los vehículos, cada estacionamiento del valet podra contara con Niveles, Gurpos y cajones.
+				
+				\item \textit{Parquímetros} Son los estacionamientos que estan en calles públicas y pueden ser utilizados por cualqueira. Para este tipo de estacionamietos el administrador pued dar de alta zonas. Una zona representa una calle o calles donde se pueden haber N lugares para aparkar vehpiculos.
+			\end{itemize}
+			
+	\hrulefill	
+	\subsubsection{Pensionados con multiples vehículos}
+		El administrador podrá indicar si al reservar un cajón a un pensionado este puede hacer uso de el solo con un vehículo o con varios.
+		
+	\hrulefill	
 	\subsubsection{Forma de estacionamiento}
 		El administrador tendra la opcion de cargar una plantilla(croquis) del estacionamiento para representar la distribucion del estacionamiento.
 
+	\hrulefill	
 	\subsubsection{Consultas}
 		Realizará consultas de entradas-salidas e ingresos por:
 		\begin{itemize}
@@ -14,9 +31,11 @@
 			\item Fecha
 		\end{itemize}
 
+	\hrulefill	
 	\subsubsection{Entradas\/Salidas}
 		Llevará el control óptimo de entradas y salidas de vehículos.
 
+	\hrulefill	
 	\subsubsection{Modos de cobro}
 		Manejara los siguientes modos de cobros:
 		\begin{itemize}
@@ -29,38 +48,35 @@
 			\item Sin cobro
 		\end{itemize}
 
+	\hrulefill	
 	\subsubsection{Tarifas especiales}
 		El sistema permitirá agregar precios especiales como promociones para clientes.
 
+	\hrulefill	
 	\subsubsection{Historial}
 		Llevará un historial donde se registrarán los movimientos realizados en el estacionamiento, estos detallaran los cajones, hora de entrada, hora de salida y la cantidad cobrada.
 	
-
+	\hrulefill	
 	\subsubsection{Habilitar reservación}
 		Podrá habilitar o desbilitar la opción de \textit{Reservacion de Cajón} para su estacionameinto. En caso de hanilitarlo deberá indicar la tolerancia para que el usuario acceda al estacionamiento, en caso contrario perdera su reservación.
 
-	\subsubsection{Modos de estacionamiento}
-		\begin{itemize}
-			\item Estacionamiento normal
-			\item Valet Parking
-			\item Pension
-		\end{itemize}
-
+	\hrulefill	
 	\subsubsection{Control de usuarios}
 		Ppodrá gestionar las cuenta de los operadores.
 	
 	
 \subsection{Usuario Final}
 
+	\hrulefill	
 	\subsubsection{Reservaciones}
 		Podrá hacer una reservación de un cajón de estacionamiento previamente seleccionado desde la aplicación móvil.
-
+	\hrulefill	
 	\subsubsection{Historial de usuario}
 		Podrá llevar un control sobre los estacionamientos visitados, así como aquellos seleccionados por este como favoritos.
-	
+	\hrulefill	
 	\subsubsection{Busqueda de estacionamientos}
 		Podrá seleccionar un radio máximo de metros a la redonda en donde serán visualizados los estacionamientos.
-	
+	\hrulefill	
 	\subsubsection{Visualizacion de smartphone}
 		Podraá visualizar en un dispositivo movil(smarphone) los estacionamientos cercanos a su ubicacion dados de alta en el sistema, mostrando información del estacionamiento al seleccionarlo. 
 		\begin{itemize}
