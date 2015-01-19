@@ -1,15 +1,4 @@
 \hrulefill
-\subsubsection{Alta de estacionamiento}
-	Los datos para dar de alta un estacionamiento son:
-	\begin{itemize}
-		\item Nombre del estacionamiento.
-		\item Ubicación(texto y coordenadas geográficas)
-		\item Logo representativo (Opcional)
-		\item Horario de servicio  
-		\item Niveles y cajones
-		\item Cajones para personas con capacidades diferentes
-	\end{itemize}
-\hrulefill
 \subsubsection{Reservación}
 	Para que el usuario final pueda reservar un cajón es necesario que este dado de alta.   
 
@@ -85,5 +74,62 @@
 \hrulefill
 \subsubsection{Historial}
 	El cajero solo podra visualizar el hisotrial de accesos y su respectiva informacion en turno.
+ % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+ % % % % % % % % % % % % % % % % % % % % % % % REVISADAS % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+ % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
  
-		
+\hrulefill
+\subsubsection{Alta Administrador} \label{rn:altaAdministrador}
+	Para dar de alta un administrador se deberá dar los siguentes datos.
+	\begin{itemize}
+		\item Nombre(s) y apellidos
+		%\item Teléfono
+		\item Móvil
+		\item e-mail
+		\item Nombre de usuario
+		\item Contraseña
+		\item Foto(Opecional)
+	\end{itemize}
+	
+\hrulefill
+\subsubsection{Alta  estacionamiento} \label{rn:altaEstacionamiento}
+	Los datos que sin importar el tipo de estacionamiento se solicitaran son:
+	\begin{itemize}
+		\item Nombre 
+		\item Logo de la empresa o del estacionamiento(opcional)
+		\item Horario de operación
+		\item Servicios adicionales
+		\item Tarifas 
+		\item Visivilidad (público o privado)
+		\item Estabecimientos
+	\end{itemize}
+	Es posible configurar 3 tipos de estacionamientos. 
+	\begin{enumerate}
+		\item \textit{Valet} 
+			\begin{itemize}
+				\item Número de lugares(estacionamientos) donde se podrán aparcar vehículos,así como, su ubicación. 
+				\item Número de niveles cajones
+				\item Número de cajones por nivel
+				\item Indicar si se los usuarios finales podrán solicitar con anticipación su vehículo desde su dispositivo móvil.   
+			\end{itemize}
+		\item \textit{Estacionamiento / Pensión} 
+			\begin{itemize}
+				\item Ubicaión
+				\item Número de niveles cajones
+				\item Número de cajones por nivel
+				\item Cajones reservados para dicapaciatos
+				\item Indicar si algún cajón tendrá pensión
+			\end{itemize}
+		\item \textit{Parquímetro}
+			\begin{itemize}
+				\item Número de zonas con su respectiva área
+			\end{itemize}
+	\end{enumerate}
+	
+	
+	%	\item Nombre del estacionamiento.
+	%		\item Ubicación(texto y coordenadas geográficas)
+	%		\item Logo representativo (Opcional)
+	%		\item Horario de servicio  
+	%		\item Niveles y cajones
+	%		\item Cajones para personas con capacidades diferentes

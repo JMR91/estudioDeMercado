@@ -1,0 +1,42 @@
+\paragraph{Descripción general}
+Da de alta un administrador.
+
+\begin{table}[h] %\footnotesize 	
+	\centering
+	\begin{tabular}{{ |l | p{12cm}|}}
+		\hline
+		\textbf{ATRIBUTO} 			& \textbf{DESCRIPCIÓN}  \\ \hline
+		\textbf{Actor(es)} 			&  Usuario \\\hline
+		\textbf{Propósito} 			&  Créa un administrador\\\hline
+		\textbf{Entradas} 			&  Regla de negocios \ref{rn:altaAdministrador}\\\hline
+		\textbf{Salidas} 				&   Nuevo usuario administrador\\\hline
+		\textbf{Precondiciones} &   El usuario no debe estar registrado(nombre de usuario, e-mail ni telefono)\\ \hline
+		\textbf{Tipo} 					&   \\ \hline
+		\textbf{Módulo} 				&   \\\hline
+	\end{tabular}
+		\label{cua:altaTarea} 
+	\end{table}
+
+\paragraph{Trayectorias Principal Alta Administrador}
+	\begin{enumerate}
+		\setlength\itemsep{0cm}
+		\item \iconUser Preciona el botón 'Registrarse'
+		\item \iconCloud Muestra la pantalla \ref{md:altaAdministrador}
+		\item \iconCloud Solicita los datos para el registro. \ref{rn:altaAdministrador}
+		\item \iconUser Ingresa los datos 
+		\item \iconCloud Valida los datos \textit{\textbf{\nameref{parRegistroAdministrador:TrayectoriaA}}}
+		\item \iconCloud Valida que no este regristrado \textit{\textbf{\nameref{parRegistroAdministrador:TrayectoriaB}}}
+		\item \iconCloud Registra al usuario administrador 
+	\end{enumerate}
+	
+\paragraph{Trayectoria A} \label{parRegistroAdministrador:TrayectoriaA}
+	\begin{enumerate}
+		\setlength\itemsep{0cm}
+		\item \iconCloud Despliega el mensaje \ref{msg:datosInvalidos}
+	\end{enumerate}
+	
+\paragraph{Trayectoria B} \label{parRegistroAdministrador:TrayectoriaB}
+	\begin{enumerate}
+		\setlength\itemsep{0cm}
+		\item \iconCloud Despliega el mensaje \ref{msg:usuarioYaRegistrado}
+	\end{enumerate}
