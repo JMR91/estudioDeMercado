@@ -1,0 +1,53 @@
+Una plataforma en la Nube para la gestión y localización de estacionamiento, Figura \ref{fig:ArquitecturaGeneralSAE}. Será capaz de ajustarse a las necesidades de las diferentes modalidades de estacionamientos públicos y privados del Distrito Federal como son estacionamiento con y sin pensiones, parquímetros y valet-parking. Para los estacionamientos que ya cuenten con sistemas para gestión y/o automatización podrán utilizar esta plataforma a través de una API, para que su pueda ser visualizada por los potenciales usuarios finales. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.25]{./estudioDeMercado/definicionDelProducto/source/arquitecturaSAE.pdf}
+	\caption{Arquitectura general SAE}
+	\label{fig:ArquitecturaGeneralSAE}
+\end{figure}		 
+
+La información de los estacionamientos en operación podrá ser visualizada por los usuarios finales a través de una app móvil de manera fácil. Esta mostrará en un mapa la ubicación de los estacionamientos cercamos, mostrando información relevante para el usuario, como es, número de cajones disponibles, horarios, modos de cobro, tarifas, Etc. Figura \ref{fig:usuarioAppLocalizacion}
+El usuario final podrá desde su app móvil guardar el lugar donde se estaciono, visualizar su tiempo transcurrido, consultar la monto total por su uso, comunicarse vía mensajes privados con el administrador, interactuar con todos los estacionamientos registrados en la plataforma.  
+
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[scale=0.35]{./estudioDeMercado/definicionDelProducto/source/usuarioApp}
+	\caption{App móvil del usuario final}
+	\label{fig:usuarioAppLocalizacion}
+\end{figure}
+
+
+\newpage
+La Figura \ref{fig:EscenarioSAE} ejemplifica el escenario principal de uso de la plataforma.
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[scale=0.75]{./estudioDeMercado/definicionDelProducto/source/storyboard.pdf}
+	\caption{Escenario de la plataforma}
+	\label{fig:EscenarioSAE}
+\end{figure}
+
+ Las principales características del la plataforma son:
+\begin{itemize}
+	\item Configuración física
+		\begin{itemize}
+			\item Número de niveles
+			\item Número de cajones
+			\item Cajones para personas con capacidades diferentes.
+			\item Ubicación del estacionamiento 
+			\item Horario de operación
+			\item Modalidad(Pensión, valet, normal)
+			\item Publico o Privado
+		\end{itemize}
+	\item Control de entradas y salidas
+	\item Control de usuarios
+	\item Generación de reportes
+	\item Consultas
+	\item Configuración de tarifas
+	\item Agregar servicios adicionales (lavado, aspirado, pulido, Etc.)
+	\item API de integración para otros sistemas
+	\item App para usuario final
+	
+\end{itemize}
